@@ -1,0 +1,4 @@
+train/data/*
+# Ignore the data directory
+.env
+.venv
